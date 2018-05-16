@@ -17,7 +17,7 @@ namespace TranslationApp
         // **********************************************
 
         // Replace <Subscription Key> with your valid subscription key.
-        const string subscriptionKey = "<Subscription Key>";
+        const string subscriptionKey = "78154f2a5fe241329d882ed17c418e0b";
 
         // You must use the same region in your REST call as you used to
         // get your subscription keys. For example, if you got your

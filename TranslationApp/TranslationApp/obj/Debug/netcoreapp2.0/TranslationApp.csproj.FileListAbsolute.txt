@@ -1,0 +1,11 @@
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\bin\Debug\netcoreapp2.0\TranslationApp.deps.json
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\bin\Debug\netcoreapp2.0\TranslationApp.runtimeconfig.json
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\bin\Debug\netcoreapp2.0\TranslationApp.runtimeconfig.dev.json
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\bin\Debug\netcoreapp2.0\TranslationApp.dll
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\bin\Debug\netcoreapp2.0\TranslationApp.pdb
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\obj\Debug\netcoreapp2.0\TranslationApp.csprojAssemblyReference.cache
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\obj\Debug\netcoreapp2.0\TranslationApp.csproj.CoreCompileInputs.cache
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\obj\Debug\netcoreapp2.0\TranslationApp.AssemblyInfoInputs.cache
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\obj\Debug\netcoreapp2.0\TranslationApp.AssemblyInfo.cs
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\obj\Debug\netcoreapp2.0\TranslationApp.dll
+C:\Users\greul\Documents\TranslationApp\TranslationApp\TranslationApp\obj\Debug\netcoreapp2.0\TranslationApp.pdb
